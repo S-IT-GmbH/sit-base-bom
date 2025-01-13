@@ -38,7 +38,25 @@
         <plugin.maven-source-plugin>3.3.1</plugin.maven-source-plugin>
         <plugin.maven-javadoc-plugin.version>3.11.1</plugin.maven-javadoc-plugin.version>
         <plugin.maven-gpg-plugin.version>3.2.7</plugin.maven-gpg-plugin.version>
+        <sit-metrics-autoconfiguration.version>0.0.5</sit-metrics-autoconfiguration.version>
+        <sit-service-starter.version>0.0.4</sit-service-starter.version>
     </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>dev.sitconsulting</groupId>
+                <artifactId>sit-metrics-autoconfiguration</artifactId>
+                <version>${sit-metrics-autoconfiguration.version}</version>
+            </dependency>
+
+            <dependency>
+                <groupId>dev.sitconsulting</groupId>
+                <artifactId>sit-service-starter</artifactId>
+                <version>${sit-service-starter.version}</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
 
     <build>
         <pluginManagement>
