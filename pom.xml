@@ -12,7 +12,7 @@
 
     <groupId>dev.sitconsulting</groupId>
     <artifactId>sit-base-bom</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <packaging>pom</packaging>
 
     <organization>
@@ -38,8 +38,8 @@
         <plugin.maven-source-plugin>3.3.1</plugin.maven-source-plugin>
         <plugin.maven-javadoc-plugin.version>3.11.1</plugin.maven-javadoc-plugin.version>
         <plugin.maven-gpg-plugin.version>3.2.7</plugin.maven-gpg-plugin.version>
-        <sit-metrics-autoconfiguration.version>0.0.5</sit-metrics-autoconfiguration.version>
-        <sit-service-starter.version>0.0.4</sit-service-starter.version>
+        <sit-metrics-autoconfiguration.version>1.0.0</sit-metrics-autoconfiguration.version>
+        <sit-service-starter.version>1.0.0</sit-service-starter.version>
     </properties>
 
     <dependencyManagement>
