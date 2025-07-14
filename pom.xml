@@ -245,7 +245,7 @@
 
     <profiles>
         <profile>
-            <id>GitHub</id>
+            <id>MavenCentral</id>
             <build>
                 <plugins>
                     <plugin>
