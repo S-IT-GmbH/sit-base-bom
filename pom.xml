@@ -7,7 +7,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.3.5</version>
+        <version>3.5.4</version>
     </parent>
 
     <groupId>dev.sitconsulting</groupId>
@@ -28,17 +28,18 @@
         </license>
     </licenses>
 
+    <name>sit-base-bom</name>
     <description>S-IT Plugin Management</description>
     <url>https://github.com/S-IT-GmbH/${project.artifactId}</url>
 
     <properties>
         <plugin.central-publishing-maven-plugin.version>0.7.0</plugin.central-publishing-maven-plugin.version>
         <plugin.maven-site-plugin.version>4.0.0-M16</plugin.maven-site-plugin.version>
-        <plugin.maven-project-info-reports-plugin.version>3.8.0</plugin.maven-project-info-reports-plugin.version>
+        <plugin.maven-project-info-reports-plugin.version>3.9.0</plugin.maven-project-info-reports-plugin.version>
         <plugin.maven-source-plugin>3.3.1</plugin.maven-source-plugin>
         <plugin.maven-javadoc-plugin.version>3.11.2</plugin.maven-javadoc-plugin.version>
         <plugin.maven-gpg-plugin.version>3.2.7</plugin.maven-gpg-plugin.version>
-        <plugin.spotbugs-maven-plugin.version>4.9.3.1</plugin.spotbugs-maven-plugin.version>
+        <plugin.spotbugs-maven-plugin.version>4.9.3.2</plugin.spotbugs-maven-plugin.version>
         <plugin.maven-pmd-plugin.version>3.27.0</plugin.maven-pmd-plugin.version>
         <sit-metrics-autoconfiguration.version>1.0.0</sit-metrics-autoconfiguration.version>
         <sit-service-starter.version>1.0.0</sit-service-starter.version>
