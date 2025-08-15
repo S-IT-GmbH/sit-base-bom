@@ -33,7 +33,7 @@
     <url>https://github.com/S-IT-GmbH/${project.artifactId}</url>
 
     <properties>
-        <plugin.central-publishing-maven-plugin.version>0.7.0</plugin.central-publishing-maven-plugin.version>
+        <plugin.central-publishing-maven-plugin.version>0.8.0</plugin.central-publishing-maven-plugin.version>
         <plugin.maven-site-plugin.version>4.0.0-M16</plugin.maven-site-plugin.version>
         <plugin.maven-project-info-reports-plugin.version>3.9.0</plugin.maven-project-info-reports-plugin.version>
         <plugin.maven-source-plugin>3.3.1</plugin.maven-source-plugin>
