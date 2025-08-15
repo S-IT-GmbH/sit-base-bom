@@ -189,7 +189,7 @@
                     <configuration>
                         <!-- printFailingErrors is pretty useful -->
                         <printFailingErrors>true</printFailingErrors>
-                        <minimumTokens>4</minimumTokens>
+                        <minimumTokens>200</minimumTokens>
                         <maxAllowedViolations>0</maxAllowedViolations>
                     </configuration>
                 </plugin>
