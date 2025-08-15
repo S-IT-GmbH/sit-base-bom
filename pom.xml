@@ -38,7 +38,7 @@
         <plugin.maven-project-info-reports-plugin.version>3.9.0</plugin.maven-project-info-reports-plugin.version>
         <plugin.maven-source-plugin>3.3.1</plugin.maven-source-plugin>
         <plugin.maven-javadoc-plugin.version>3.11.2</plugin.maven-javadoc-plugin.version>
-        <plugin.maven-gpg-plugin.version>3.2.7</plugin.maven-gpg-plugin.version>
+        <plugin.maven-gpg-plugin.version>3.2.8</plugin.maven-gpg-plugin.version>
         <plugin.spotbugs-maven-plugin.version>4.9.3.2</plugin.spotbugs-maven-plugin.version>
         <plugin.maven-pmd-plugin.version>3.27.0</plugin.maven-pmd-plugin.version>
         <sit-metrics-autoconfiguration.version>1.1.1</sit-metrics-autoconfiguration.version>
