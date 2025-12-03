@@ -43,7 +43,7 @@
         <plugin.maven-pmd-plugin.version>3.27.0</plugin.maven-pmd-plugin.version>
         <sit-metrics-autoconfiguration.version>1.1.1</sit-metrics-autoconfiguration.version>
         <sit-service-starter.version>1.1.2</sit-service-starter.version>
-        <plugin.maven-surefire-report-plugin.version>3.5.3</plugin.maven-surefire-report-plugin.version>
+        <plugin.maven-surefire-report-plugin.version>3.5.4</plugin.maven-surefire-report-plugin.version>
     </properties>
 
     <dependencyManagement>
